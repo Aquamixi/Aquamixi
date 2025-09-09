@@ -1,7 +1,7 @@
 Hi 👋 My name is Erick Mathias Debastiani
 =========================================
 
-Developer
+Full Stack Developer
 ---------
 
 ![Aquamixi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aquamixi&show_icons=true&theme=radical)
