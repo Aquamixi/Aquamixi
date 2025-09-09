@@ -4,6 +4,10 @@ Hi 👋 My name is Erick Mathias Debastiani
 Developer
 ---------
 
+![Aquamixi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aquamixi&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquamixi&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 I've been coding and creating my own apps since I was 14 years old, now I've been working in web development for the past 4 years, always looking for better and more efficient ways
 
 * 🌍  I'm based in Medianeira Paraná
